@@ -51,3 +51,5 @@ project-scratch-def.json
 .eslintrc.json 
 .eslintc.
 package.xml
+
+.husky
